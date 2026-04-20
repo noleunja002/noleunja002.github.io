@@ -1,0 +1,24 @@
+{
+  "name": "시장 하락률 게이지",
+  "short_name": "하락률 게이지",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "description": "금, S&P 500, KOSPI의 최고점 대비 하락률과 주요 금융위기 구간을 보여주는 대시보드",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
